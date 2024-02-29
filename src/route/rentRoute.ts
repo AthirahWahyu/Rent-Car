@@ -12,4 +12,4 @@ app.post(`/rent`,  createRent)
 app.put(`/rent/: id`, updateRent)
 app.delete(`/rent/: id`, deleteRent)
 
-export default app
+export default app 
